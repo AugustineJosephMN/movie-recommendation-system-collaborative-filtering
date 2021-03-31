@@ -1,4 +1,5 @@
 Flask==1.1.1
+flask_sqlalchemy==2.5.1
 gunicorn==19.9.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
